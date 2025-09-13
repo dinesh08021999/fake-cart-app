@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Navbar from "./components/Navbar.jsx";
-import ProductCard from "./components/Productcard.jsx";
+import ProductCard from "./components/ProductCard.jsx";
 import CartModal from "./components/CartModal.jsx";
 
 function App() {
